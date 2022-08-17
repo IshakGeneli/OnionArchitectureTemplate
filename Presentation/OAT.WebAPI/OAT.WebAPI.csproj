@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\OAT.Application\OAT.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\OAT.Persistence\OAT.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
